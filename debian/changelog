@@ -1,0 +1,11 @@
+vimb (3.1.0-2-gbb4ef36-1~1.gbpbb4ef3) unstable; urgency=medium
+
+  ** SNAPSHOT build @bb4ef36b99fe4f1a24fe4718e2ed4ccdde612562 **
+
+  [ Alexander Kulak ]
+  * Initial release
+
+  [ Mateusz Łukasik <mati75@linuxmint.pl> ]
+  * Initial base
+
+ -- Alexander Kulak <sa-dev@rainbow.by>  Mon, 09 Apr 2018 21:29:58 +0300

@@ -1,0 +1,19 @@
+Source: vimb
+Section: misc
+Priority: optional
+Maintainer: Alexander Kulak <sa-dev@rainbow.by>
+Build-Depends: debhelper (>= 10), libsoup2.4-dev, libwebkit2gtk-4.0-dev
+Standards-Version: 4.1.2
+Homepage: https://fanglingsu.github.io/vimb/
+Vcs-Browser: https://github.com/sagb/vimb
+Vcs-Git: https://github.com/sagb/vimb
+
+Package: vimb
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Webkit-based browser with vim keyboard bindings
+ Vimb is a Vim-like web browser that is inspired by Pentadactyl
+ and Vimprobable. The goal of Vimb is to build a completely
+ keyboard-driven, efficient and pleasurable browsing-experience
+ with low memory and CPU usage that is intuitive to use for Vim
+ users.
