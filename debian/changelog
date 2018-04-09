@@ -1,6 +1,10 @@
-vimb (3.1.0-1~1.gbpd1d05f) unstable; urgency=medium
+vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbpa5e939) unstable; urgency=medium
 
-  ** SNAPSHOT build @d1d05fcdd01e9f72ca92bae35ed96c58914b2796 **
+  ** SNAPSHOT build @a5e9392eaa38e59624364d2e2be629fe7375d113 **
+
+ -- Alexander Kulak <sa-dev@rainbow.by>  Mon, 09 Apr 2018 23:07:25 +0300
+
+vimb (3.1.0-1) unstable; urgency=medium
 
   [ Alexander Kulak ]
   * Initial release
@@ -8,4 +12,4 @@ vimb (3.1.0-1~1.gbpd1d05f) unstable; urgency=medium
   [ Mateusz Łukasik <mati75@linuxmint.pl> ]
   * Initial base
 
- -- Alexander Kulak <sa-dev@rainbow.by>  Mon, 09 Apr 2018 22:32:46 +0300
+ -- Alexander Kulak <sa-dev@rainbow.by>  Mon, 09 Apr 2018 23:00:00 +0300
