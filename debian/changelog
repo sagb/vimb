@@ -1,4 +1,12 @@
-vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbpa5e939) stretch; urgency=medium
+vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbp2d7512) unstable; urgency=medium
+
+  ** SNAPSHOT build @2d7512503d01b32cbc06d173a49e157fcba470ae **
+
+  * control for sid
+
+ -- Alexander Kulak <sa-dev@rainbow.by>  Tue, 10 Apr 2018 11:50:40 +0300
+
+vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbpa5e939) unstable; urgency=medium
 
   ** SNAPSHOT build @a5e9392eaa38e59624364d2e2be629fe7375d113 **
 
