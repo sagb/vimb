@@ -1,3 +1,11 @@
+vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbpce52ad) testing; urgency=medium
+
+  ** SNAPSHOT build @ce52ade26c12295c0eac61b5b765cba0ea2bd701 **
+
+  * backport to buster
+
+ -- Alexander Kulak <sa-dev@rainbow.by>  Tue, 10 Apr 2018 11:56:37 +0300
+
 vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbp2d7512) unstable; urgency=medium
 
   ** SNAPSHOT build @2d7512503d01b32cbc06d173a49e157fcba470ae **
