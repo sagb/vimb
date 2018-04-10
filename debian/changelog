@@ -1,3 +1,11 @@
+vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbpbea025) stretch; urgency=medium
+
+  ** SNAPSHOT build @bea0257b7067dee02f367d9310dd305eaa6a7557 **
+
+  * backport to stretch
+
+ -- Alexander Kulak <sa-dev@rainbow.by>  Tue, 10 Apr 2018 12:05:38 +0300
+
 vimb (3.1.0.20180328.1.ge71bcdb-1~1.gbp2d7512) unstable; urgency=medium
 
   ** SNAPSHOT build @2d7512503d01b32cbc06d173a49e157fcba470ae **
